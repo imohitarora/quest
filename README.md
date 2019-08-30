@@ -25,3 +25,6 @@ questions
       
 6. Can you access DOM in node?
       Nope
+
+7. What is two way binding in Angular?
+       two-way data binding really just boils down to event binding and property binding.
