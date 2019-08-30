@@ -23,4 +23,5 @@ questions
 5. What is operational error?
       An issue with system. /timeout/hardware failure
       
-6. 
+6. Can you access DOM in node?
+      Nope
